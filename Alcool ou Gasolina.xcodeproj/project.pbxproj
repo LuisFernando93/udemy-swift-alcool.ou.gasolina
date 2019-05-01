@@ -12,6 +12,7 @@
 		7EEA60AE1FA4E9B900219F6C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7EEA60AC1FA4E9B900219F6C /* Main.storyboard */; };
 		7EEA60B01FA4E9B900219F6C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7EEA60AF1FA4E9B900219F6C /* Assets.xcassets */; };
 		7EEA60B31FA4E9B900219F6C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7EEA60B11FA4E9B900219F6C /* LaunchScreen.storyboard */; };
+		7EEA60BB1FA4E9E500219F6C /* logo.png in Sources */ = {isa = PBXBuildFile; fileRef = 7EEA60BA1FA4E9E500219F6C /* logo.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		7EEA60AF1FA4E9B900219F6C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7EEA60B21FA4E9B900219F6C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7EEA60B41FA4E9B900219F6C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7EEA60BA1FA4E9E500219F6C /* logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -38,6 +40,7 @@
 		7EEA609C1FA4E9B900219F6C = {
 			isa = PBXGroup;
 			children = (
+				7EEA60BA1FA4E9E500219F6C /* logo.png */,
 				7EEA60A71FA4E9B900219F6C /* Alcool ou Gasolina */,
 				7EEA60A61FA4E9B900219F6C /* Products */,
 			);
@@ -136,6 +139,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7EEA60BB1FA4E9E500219F6C /* logo.png in Sources */,
 				7EEA60AB1FA4E9B900219F6C /* ViewController.swift in Sources */,
 				7EEA60A91FA4E9B900219F6C /* AppDelegate.swift in Sources */,
 			);
